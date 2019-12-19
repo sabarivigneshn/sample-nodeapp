@@ -6,7 +6,7 @@ var promise = new Promise (function(resolve, reject){
 })
 
 promise.then(function (data){
-    console.log(data);
+    console.log("test");
 
 }
     );
