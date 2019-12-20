@@ -1,5 +1,4 @@
 #!/bin/sh
 
 sudo cp -f package.json /home/ubuntu
-echo whoami
-pm2 stop 0
+
