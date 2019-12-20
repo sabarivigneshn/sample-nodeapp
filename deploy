@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo cp -f main.js /home/ubuntu
+sudo cp -f package.json /home/ubuntu
