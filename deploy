@@ -1,9 +1,6 @@
 #!/bin/sh
 
 sudo cp -f package.json /home/ubuntu
-su - ubuntu
-cd  /home/ubuntu
-whoami
-pm2 start safe_api
+pm2 start /home/ubuntu/safe-training-new/dist/server.js
 pm2 status
 
