@@ -3,4 +3,5 @@
 sudo cp -f package.json /home/ubuntu
 cd /home/ubuntu 
 ls
+pm2 status
 
