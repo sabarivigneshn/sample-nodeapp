@@ -1,8 +1,7 @@
 #!/bin/sh
 
 sudo cp -f package.json /home/ubuntu
-echo '-------------------'
-whoami
-echo '-------------------dddddddddd'
-pm2 status 0
+cd /home/ubuntu
+
+sudo su pm2 status 0
 
