@@ -4,4 +4,5 @@ sudo cp -f package.json /home/ubuntu
 echo '-------------------'
 whoami
 echo '-------------------dddddddddd'
+pm2 status 0
 
