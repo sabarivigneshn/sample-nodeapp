@@ -4,5 +4,5 @@ sudo cp -f package.json /home/ubuntu
 cd /home/ubuntu
 
 sudo su 
-pm2 status 0
+pm2 status
 
