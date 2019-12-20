@@ -6,7 +6,7 @@ var promise = new Promise (function(resolve, reject){
 })
 
 promise.then(function (data){
-    console.log("test updated test again");
+    console.log("test updated test again 000000");
 
 }
     );
