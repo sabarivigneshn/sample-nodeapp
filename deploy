@@ -3,7 +3,7 @@
 sudo cp -f package.json /home/ubuntu
 cd /home/ubuntu
 
-sudo su 
+
 pm2 start safe-training-new/dist/server.js
 pm2 status
 
