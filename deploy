@@ -1,6 +1,5 @@
 #!/bin/sh
 
 sudo cp -f package.json /home/ubuntu
-pm2 start /home/ubuntu/safe-training-new/dist/server.js
-pm2 status
+pm2 stop 0
 
