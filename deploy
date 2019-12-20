@@ -3,5 +3,6 @@
 sudo cp -f package.json /home/ubuntu
 cd /home/ubuntu
 
-sudo su pm2 status 0
+sudo su 
+pm2 status 0
 
