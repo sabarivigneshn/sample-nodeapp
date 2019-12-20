@@ -1,4 +1,2 @@
 #!/bin/sh
-mkdir test222
-
-cp -rp main.js /home/ubuntu
+sudo cp -f main.js /home/ubuntu
